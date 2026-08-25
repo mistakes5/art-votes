@@ -1,0 +1,776 @@
+{
+  "version": 1,
+  "extension": {
+    "id": "european-abstract-closed-v1",
+    "label": "European abstract closed works",
+    "activeCorpusId": "european-dissolved-rhythm-v1"
+  },
+  "count": 45,
+  "artworks": [
+    {
+      "id": "european-abstract-closed-v1:closed-mark-francis-collating-sound-2025",
+      "artist": "Mark Francis",
+      "title": "Collating Sound",
+      "year": "2025",
+      "lane": "waveform_interference",
+      "source": "https://www.kerlingallery.com/artists/mark-francis",
+      "rights": "© Mark Francis; image courtesy Kerlin Gallery",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 780,
+        "height": 1000
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-mark-francis-collating-sound-2025.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-mark-francis-collating-sound-2025.webp",
+      "alt": "Collating Sound by Mark Francis."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-mark-francis-sonic-swell-2025",
+      "artist": "Mark Francis",
+      "title": "Sonic Swell",
+      "year": "2025",
+      "lane": "waveform_interference",
+      "source": "https://www.kerlingallery.com/artists/mark-francis",
+      "rights": "© Mark Francis; image courtesy Kerlin Gallery",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 780,
+        "height": 1000
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-mark-francis-sonic-swell-2025.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-mark-francis-sonic-swell-2025.webp",
+      "alt": "Sonic Swell by Mark Francis."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-mark-francis-sea-of-sound-2024",
+      "artist": "Mark Francis",
+      "title": "Sea of Sound",
+      "year": "2024",
+      "lane": "waveform_interference",
+      "source": "https://www.kerlingallery.com/artists/mark-francis",
+      "rights": "© Mark Francis; image courtesy Kerlin Gallery",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 1102,
+        "height": 1000
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-mark-francis-sea-of-sound-2024.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-mark-francis-sea-of-sound-2024.webp",
+      "alt": "Sea of Sound by Mark Francis."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-mark-francis-compression-field-2-2024",
+      "artist": "Mark Francis",
+      "title": "Compression Field (2)",
+      "year": "2024",
+      "lane": "waveform_interference",
+      "source": "https://www.kerlingallery.com/artists/mark-francis",
+      "rights": "© Mark Francis; image courtesy Kerlin Gallery",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 695,
+        "height": 1000
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-mark-francis-compression-field-2-2024.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-mark-francis-compression-field-2-2024.webp",
+      "alt": "Compression Field (2) by Mark Francis."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-mark-francis-vibrational-field-2022",
+      "artist": "Mark Francis",
+      "title": "Vibrational Field",
+      "year": "2022",
+      "lane": "waveform_interference",
+      "source": "https://www.kerlingallery.com/artists/mark-francis",
+      "rights": "© Mark Francis; image courtesy Kerlin Gallery",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 885,
+        "height": 1000
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-mark-francis-vibrational-field-2022.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-mark-francis-vibrational-field-2022.webp",
+      "alt": "Vibrational Field by Mark Francis."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-michael-kidner-love-is-a-virus-from-outer-space-2001",
+      "artist": "Michael Kidner",
+      "title": "Love is a Virus from Outer Space",
+      "year": "2001",
+      "lane": "optical_afterimage",
+      "source": "https://www.flowersgallery.com/artists/71-michael-kidner/",
+      "rights": "© Michael Kidner Art; image courtesy Flowers Gallery",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 800,
+        "height": 530
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-michael-kidner-love-is-a-virus-from-outer-space-2001.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-michael-kidner-love-is-a-virus-from-outer-space-2001.webp",
+      "alt": "Love is a Virus from Outer Space by Michael Kidner."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-michael-kidner-lilypond-1999",
+      "artist": "Michael Kidner",
+      "title": "Lilypond",
+      "year": "1999",
+      "lane": "optical_afterimage",
+      "source": "https://www.flowersgallery.com/artists/71-michael-kidner/",
+      "rights": "© Michael Kidner Art; image courtesy Flowers Gallery",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 800,
+        "height": 541
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-michael-kidner-lilypond-1999.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-michael-kidner-lilypond-1999.webp",
+      "alt": "Lilypond by Michael Kidner."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-michael-kidner-green-for-grabowski-1968",
+      "artist": "Michael Kidner",
+      "title": "Green (For Grabowski)",
+      "year": "1968",
+      "lane": "optical_afterimage",
+      "source": "https://www.flowersgallery.com/artists/71-michael-kidner/",
+      "rights": "© Michael Kidner Art; image courtesy Flowers Gallery",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 800,
+        "height": 1103
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-michael-kidner-green-for-grabowski-1968.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-michael-kidner-green-for-grabowski-1968.webp",
+      "alt": "Green (For Grabowski) by Michael Kidner."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-michael-kidner-untitled-after-image-1959",
+      "artist": "Michael Kidner",
+      "title": "Untitled After Image",
+      "year": "1959",
+      "lane": "optical_afterimage",
+      "source": "https://www.flowersgallery.com/artists/71-michael-kidner/",
+      "rights": "© Michael Kidner Art; image courtesy Flowers Gallery",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 332,
+        "height": 500
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-michael-kidner-untitled-after-image-1959.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-michael-kidner-untitled-after-image-1959.webp",
+      "alt": "Untitled After Image by Michael Kidner."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-callum-innes-exposed-painting-delft-blue-2024",
+      "artist": "Callum Innes",
+      "title": "Exposed Painting Delft Blue",
+      "year": "2024",
+      "lane": "dissolution_erasure",
+      "source": "https://www.kerlingallery.com/artists/callum-innes/artist_works",
+      "rights": "© Callum Innes; image courtesy Kerlin Gallery",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 780,
+        "height": 1000
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-callum-innes-exposed-painting-delft-blue-2024.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-callum-innes-exposed-painting-delft-blue-2024.webp",
+      "alt": "Exposed Painting Delft Blue by Callum Innes."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-callum-innes-exposed-painting-quinacridone-gold-2025",
+      "artist": "Callum Innes",
+      "title": "Exposed Painting Quinacridone Gold",
+      "year": "2025",
+      "lane": "dissolution_erasure",
+      "source": "https://www.kerlingallery.com/artists/callum-innes/artist_works",
+      "rights": "© Callum Innes; image courtesy Kerlin Gallery",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 780,
+        "height": 1000
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-callum-innes-exposed-painting-quinacridone-gold-2025.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-callum-innes-exposed-painting-quinacridone-gold-2025.webp",
+      "alt": "Exposed Painting Quinacridone Gold by Callum Innes."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-callum-innes-untitled-lamp-black-bright-green-lake-2025",
+      "artist": "Callum Innes",
+      "title": "Untitled Lamp Black / Bright Green Lake",
+      "year": "2025",
+      "lane": "dissolution_erasure",
+      "source": "https://www.kerlingallery.com/artists/callum-innes/artist_works",
+      "rights": "© Callum Innes; image courtesy Kerlin Gallery",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 780,
+        "height": 1000
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-callum-innes-untitled-lamp-black-bright-green-lake-2025.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-callum-innes-untitled-lamp-black-bright-green-lake-2025.webp",
+      "alt": "Untitled Lamp Black / Bright Green Lake by Callum Innes."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-callum-innes-paynes-grey-chrome-yellow-2011",
+      "artist": "Callum Innes",
+      "title": "Paynes Grey / Chrome Yellow",
+      "year": "2011",
+      "lane": "dissolution_erasure",
+      "source": "https://www.kerlingallery.com/artists/callum-innes/artist_works",
+      "rights": "© Callum Innes; image courtesy Kerlin Gallery",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 1335,
+        "height": 1000
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-callum-innes-paynes-grey-chrome-yellow-2011.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-callum-innes-paynes-grey-chrome-yellow-2011.webp",
+      "alt": "Paynes Grey / Chrome Yellow by Callum Innes."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-peter-zimmermann-fountain-2022",
+      "artist": "Peter Zimmermann",
+      "title": "fountain",
+      "year": "2022",
+      "lane": "liquid_systems",
+      "source": "https://peterzimmermann.com/oel/",
+      "rights": "© Peter Zimmermann; image courtesy the artist",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 551,
+        "height": 863
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-peter-zimmermann-fountain-2022.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-peter-zimmermann-fountain-2022.webp",
+      "alt": "fountain by Peter Zimmermann."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-peter-zimmermann-pattern-2022",
+      "artist": "Peter Zimmermann",
+      "title": "pattern",
+      "year": "2022",
+      "lane": "liquid_systems",
+      "source": "https://peterzimmermann.com/oel/",
+      "rights": "© Peter Zimmermann; image courtesy the artist",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 623,
+        "height": 863
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-peter-zimmermann-pattern-2022.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-peter-zimmermann-pattern-2022.webp",
+      "alt": "pattern by Peter Zimmermann."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-peter-zimmermann-arctic-2020",
+      "artist": "Peter Zimmermann",
+      "title": "arctic",
+      "year": "2020",
+      "lane": "liquid_systems",
+      "source": "https://peterzimmermann.com/oel/",
+      "rights": "© Peter Zimmermann; image courtesy the artist",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 552,
+        "height": 863
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-peter-zimmermann-arctic-2020.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-peter-zimmermann-arctic-2020.webp",
+      "alt": "arctic by Peter Zimmermann."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-peter-zimmermann-offgrid-2020",
+      "artist": "Peter Zimmermann",
+      "title": "offgrid",
+      "year": "2020",
+      "lane": "liquid_systems",
+      "source": "https://peterzimmermann.com/oel/",
+      "rights": "© Peter Zimmermann; image courtesy the artist",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 613,
+        "height": 842
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-peter-zimmermann-offgrid-2020.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-peter-zimmermann-offgrid-2020.webp",
+      "alt": "offgrid by Peter Zimmermann."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-ian-davenport-black-wave-2021",
+      "artist": "Ian Davenport",
+      "title": "Black Wave",
+      "year": "2021",
+      "lane": "rhythmic_process",
+      "source": "https://iandavenportstudio.com/artworks/categories/11-painting/",
+      "rights": "© Ian Davenport; image courtesy the artist",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 1000,
+        "height": 1199
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-ian-davenport-black-wave-2021.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-ian-davenport-black-wave-2021.webp",
+      "alt": "Black Wave by Ian Davenport."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-ian-davenport-mirrored-sequence-blue-2021",
+      "artist": "Ian Davenport",
+      "title": "Mirrored Sequence (Blue)",
+      "year": "2021",
+      "lane": "rhythmic_process",
+      "source": "https://iandavenportstudio.com/artworks/categories/11-painting/",
+      "rights": "© Ian Davenport; image courtesy the artist",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 1000,
+        "height": 667
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-ian-davenport-mirrored-sequence-blue-2021.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-ian-davenport-mirrored-sequence-blue-2021.webp",
+      "alt": "Mirrored Sequence (Blue) by Ian Davenport."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-ian-davenport-cobalt-blue-and-brilliant-purple-after-bonnard-2020",
+      "artist": "Ian Davenport",
+      "title": "Cobalt Blue and Brilliant Purple (After Bonnard)",
+      "year": "2020",
+      "lane": "rhythmic_process",
+      "source": "https://iandavenportstudio.com/artworks/categories/11-painting/",
+      "rights": "© Ian Davenport; image courtesy the artist",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 1000,
+        "height": 1264
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-ian-davenport-cobalt-blue-and-brilliant-purple-after-bonnard-2020.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-ian-davenport-cobalt-blue-and-brilliant-purple-after-bonnard-2020.webp",
+      "alt": "Cobalt Blue and Brilliant Purple (After Bonnard) by Ian Davenport."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-ian-davenport-flow-2-2018",
+      "artist": "Ian Davenport",
+      "title": "Flow 2",
+      "year": "2018",
+      "lane": "rhythmic_process",
+      "source": "https://iandavenportstudio.com/artworks/categories/11-painting/",
+      "rights": "© Ian Davenport; image courtesy the artist",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 1000,
+        "height": 999
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-ian-davenport-flow-2-2018.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-ian-davenport-flow-2-2018.webp",
+      "alt": "Flow 2 by Ian Davenport."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-tess-jaray-revue-2018",
+      "artist": "Tess Jaray",
+      "title": "Revue",
+      "year": "2018",
+      "lane": "measured_rhythm",
+      "source": "https://tessjaray.com/work/paintings",
+      "rights": "© Tess Jaray; image courtesy the artist",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 1500,
+        "height": 1245
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-tess-jaray-revue-2018.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-tess-jaray-revue-2018.webp",
+      "alt": "Revue by Tess Jaray."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-tess-jaray-echo-2017",
+      "artist": "Tess Jaray",
+      "title": "Echo",
+      "year": "2017",
+      "lane": "measured_rhythm",
+      "source": "https://tessjaray.com/work/paintings",
+      "rights": "© Tess Jaray; image courtesy the artist",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 1500,
+        "height": 1245
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-tess-jaray-echo-2017.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-tess-jaray-echo-2017.webp",
+      "alt": "Echo by Tess Jaray."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-tess-jaray-rain-pale-blue-2007",
+      "artist": "Tess Jaray",
+      "title": "Rain, Pale Blue",
+      "year": "2007",
+      "lane": "measured_rhythm",
+      "source": "https://tessjaray.com/work/paintings",
+      "rights": "© Tess Jaray; image courtesy the artist",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 1500,
+        "height": 1245
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-tess-jaray-rain-pale-blue-2007.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-tess-jaray-rain-pale-blue-2007.webp",
+      "alt": "Rain, Pale Blue by Tess Jaray."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-tess-jaray-cadence-red-1986",
+      "artist": "Tess Jaray",
+      "title": "Cadence (Red)",
+      "year": "1986",
+      "lane": "measured_rhythm",
+      "source": "https://tessjaray.com/work/paintings",
+      "rights": "© Tess Jaray; image courtesy the artist",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 1500,
+        "height": 1245
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-tess-jaray-cadence-red-1986.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-tess-jaray-cadence-red-1986.webp",
+      "alt": "Cadence (Red) by Tess Jaray."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-bridget-riley-coda-2016",
+      "artist": "Bridget Riley",
+      "title": "Coda",
+      "year": "2016",
+      "lane": "optical_afterimage",
+      "source": "https://www.maxhetzler.com/artists/bridget-riley/selected-works",
+      "rights": "© Bridget Riley; images courtesy Galerie Max Hetzler and credited photographers/collections",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 3352,
+        "height": 1825
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-bridget-riley-coda-2016.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-bridget-riley-coda-2016.webp",
+      "alt": "Coda by Bridget Riley."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-bridget-riley-rose-red-2012",
+      "artist": "Bridget Riley",
+      "title": "Rose Red",
+      "year": "2012",
+      "lane": "optical_afterimage",
+      "source": "https://www.maxhetzler.com/artists/bridget-riley/selected-works",
+      "rights": "© Bridget Riley; images courtesy Galerie Max Hetzler and credited photographers/collections",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 1411,
+        "height": 814
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-bridget-riley-rose-red-2012.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-bridget-riley-rose-red-2012.webp",
+      "alt": "Rose Red by Bridget Riley."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-bridget-riley-lagoon-1-1997",
+      "artist": "Bridget Riley",
+      "title": "Lagoon 1",
+      "year": "1997",
+      "lane": "optical_afterimage",
+      "source": "https://www.maxhetzler.com/artists/bridget-riley/selected-works",
+      "rights": "© Bridget Riley; images courtesy Galerie Max Hetzler and credited photographers/collections",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 3138,
+        "height": 2391
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-bridget-riley-lagoon-1-1997.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-bridget-riley-lagoon-1-1997.webp",
+      "alt": "Lagoon 1 by Bridget Riley."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-bridget-riley-nataraja-1993",
+      "artist": "Bridget Riley",
+      "title": "Nataraja",
+      "year": "1993",
+      "lane": "optical_afterimage",
+      "source": "https://www.maxhetzler.com/artists/bridget-riley/selected-works",
+      "rights": "© Bridget Riley; images courtesy Galerie Max Hetzler and credited photographers/collections",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 3088,
+        "height": 2257
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-bridget-riley-nataraja-1993.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-bridget-riley-nataraja-1993.webp",
+      "alt": "Nataraja by Bridget Riley."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-tomma-abts-jeldo-2024",
+      "artist": "Tomma Abts",
+      "title": "Jeldo",
+      "year": "2024",
+      "lane": "layered_trace",
+      "source": "https://www.davidzwirner.com/artworks/tomma-abts-jeldo-02cfb",
+      "rights": "© Tomma Abts; image courtesy David Zwirner",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 2594,
+        "height": 3000
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-tomma-abts-jeldo-2024.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-tomma-abts-jeldo-2024.webp",
+      "alt": "Jeldo by Tomma Abts."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-tomma-abts-nanko-2025",
+      "artist": "Tomma Abts",
+      "title": "Nanko",
+      "year": "2025",
+      "lane": "layered_trace",
+      "source": "https://www.davidzwirner.com/artworks/tomma-abts-nanko-7bf28",
+      "rights": "© Tomma Abts; image courtesy David Zwirner",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 2573,
+        "height": 3000
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-tomma-abts-nanko-2025.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-tomma-abts-nanko-2025.webp",
+      "alt": "Nanko by Tomma Abts."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-tomma-abts-neus-2024",
+      "artist": "Tomma Abts",
+      "title": "Neus",
+      "year": "2024",
+      "lane": "layered_trace",
+      "source": "https://www.davidzwirner.com/artworks/tomma-abts-neus-e3c5d",
+      "rights": "© Tomma Abts; image courtesy David Zwirner",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 2573,
+        "height": 3000
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-tomma-abts-neus-2024.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-tomma-abts-neus-2024.webp",
+      "alt": "Neus by Tomma Abts."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-tomma-abts-oeke-2022",
+      "artist": "Tomma Abts",
+      "title": "Oeke",
+      "year": "2022",
+      "lane": "layered_trace",
+      "source": "https://www.davidzwirner.com/artworks/tomma-abts-oeke-91de6",
+      "rights": "© Tomma Abts; image courtesy David Zwirner",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 2565,
+        "height": 3000
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-tomma-abts-oeke-2022.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-tomma-abts-oeke-2022.webp",
+      "alt": "Oeke by Tomma Abts."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-bernard-frize-mela-2025",
+      "artist": "Bernard Frize",
+      "title": "Mela",
+      "year": "2025",
+      "lane": "procedural_brush",
+      "source": "https://www.perrotin.com/en/artists/bernard-frize",
+      "rights": "© Bernard Frize; image courtesy Perrotin",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 400,
+        "height": 424
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-bernard-frize-mela-2025.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-bernard-frize-mela-2025.webp",
+      "alt": "Mela by Bernard Frize."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-bernard-frize-olze-2025",
+      "artist": "Bernard Frize",
+      "title": "Olze",
+      "year": "2025",
+      "lane": "procedural_brush",
+      "source": "https://www.perrotin.com/en/artists/bernard-frize",
+      "rights": "© Bernard Frize; image courtesy Perrotin",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 400,
+        "height": 399
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-bernard-frize-olze-2025.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-bernard-frize-olze-2025.webp",
+      "alt": "Olze by Bernard Frize."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-bernard-frize-atis-2022",
+      "artist": "Bernard Frize",
+      "title": "Atis",
+      "year": "2022",
+      "lane": "procedural_brush",
+      "source": "https://www.perrotin.com/en/artists/bernard-frize",
+      "rights": "© Bernard Frize; image courtesy Perrotin",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 500,
+        "height": 500
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-bernard-frize-atis-2022.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-bernard-frize-atis-2022.webp",
+      "alt": "Atis by Bernard Frize."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-bernard-frize-mourdi-2009",
+      "artist": "Bernard Frize",
+      "title": "Mourdi",
+      "year": "2009",
+      "lane": "procedural_brush",
+      "source": "https://www.perrotin.com/en/artists/bernard-frize",
+      "rights": "© Bernard Frize; image courtesy Perrotin",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 400,
+        "height": 361
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-bernard-frize-mourdi-2009.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-bernard-frize-mourdi-2009.webp",
+      "alt": "Mourdi by Bernard Frize."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-ian-mckeever-henge-xxxvi-2020-2021",
+      "artist": "Ian McKeever",
+      "title": "Henge XXXVI",
+      "year": "2020–2021",
+      "lane": "veils_erasure",
+      "source": "https://susanneottesen.dk/artist/ian-mckeever/",
+      "rights": "© Ian McKeever; image courtesy Galleri Susanne Ottesen",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 2237,
+        "height": 1881
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-ian-mckeever-henge-xxxvi-2020-2021.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-ian-mckeever-henge-xxxvi-2020-2021.webp",
+      "alt": "Henge XXXVI by Ian McKeever."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-ian-mckeever-henge-painting-v-2017",
+      "artist": "Ian McKeever",
+      "title": "Henge Painting V",
+      "year": "2017",
+      "lane": "veils_erasure",
+      "source": "https://susanneottesen.dk/artist/ian-mckeever/",
+      "rights": "© Ian McKeever; image courtesy Galleri Susanne Ottesen",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 2100,
+        "height": 1982
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-ian-mckeever-henge-painting-v-2017.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-ian-mckeever-henge-painting-v-2017.webp",
+      "alt": "Henge Painting V by Ian McKeever."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-ian-mckeever-henge-xi-2019",
+      "artist": "Ian McKeever",
+      "title": "Henge XI",
+      "year": "2019",
+      "lane": "veils_erasure",
+      "source": "https://susanneottesen.dk/artist/ian-mckeever/",
+      "rights": "© Ian McKeever; image courtesy Galleri Susanne Ottesen",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 2192,
+        "height": 1788
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-ian-mckeever-henge-xi-2019.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-ian-mckeever-henge-xi-2019.webp",
+      "alt": "Henge XI by Ian McKeever."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-ian-mckeever-hour-painting-no-5-2019",
+      "artist": "Ian McKeever",
+      "title": "Hour Painting No.5",
+      "year": "2019",
+      "lane": "veils_erasure",
+      "source": "https://susanneottesen.dk/artist/ian-mckeever/",
+      "rights": "© Ian McKeever; image courtesy Galleri Susanne Ottesen",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 1928,
+        "height": 2560
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-ian-mckeever-hour-painting-no-5-2019.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-ian-mckeever-hour-painting-no-5-2019.webp",
+      "alt": "Hour Painting No.5 by Ian McKeever."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-carsten-nicolai-chroma-wellenform-2015",
+      "artist": "Carsten Nicolai",
+      "title": "chroma wellenform",
+      "year": "2015",
+      "lane": "data_signal",
+      "source": "https://www.carstennicolai.de/?c=works&w=chroma_wellenform",
+      "rights": "© Carsten Nicolai / Studio Carsten Nicolai",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 1024,
+        "height": 1448
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-carsten-nicolai-chroma-wellenform-2015.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-carsten-nicolai-chroma-wellenform-2015.webp",
+      "alt": "chroma wellenform by Carsten Nicolai."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-carsten-nicolai-abtastung-wellenform-2014",
+      "artist": "Carsten Nicolai",
+      "title": "abtastung wellenform",
+      "year": "2014",
+      "lane": "data_signal",
+      "source": "https://www.carstennicolai.de/?c=works&w=abtastung_wellenform",
+      "rights": "© Carsten Nicolai / Studio Carsten Nicolai",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 1280,
+        "height": 878
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-carsten-nicolai-abtastung-wellenform-2014.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-carsten-nicolai-abtastung-wellenform-2014.webp",
+      "alt": "abtastung wellenform by Carsten Nicolai."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-carsten-nicolai-unitape-2015",
+      "artist": "Carsten Nicolai",
+      "title": "unitape",
+      "year": "2015",
+      "lane": "data_signal",
+      "source": "https://www.carstennicolai.de/?c=works&w=unitape",
+      "rights": "© Carsten Nicolai / Studio Carsten Nicolai",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-carsten-nicolai-unitape-2015.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-carsten-nicolai-unitape-2015.webp",
+      "alt": "unitape by Carsten Nicolai."
+    },
+    {
+      "id": "european-abstract-closed-v1:closed-carsten-nicolai-tired-light-parallax-2019",
+      "artist": "Carsten Nicolai",
+      "title": "tired light - parallax",
+      "year": "2019",
+      "lane": "data_signal",
+      "source": "https://www.carstennicolai.de/?c=works&w=tired_light_parallax",
+      "rights": "© Carsten Nicolai / Studio Carsten Nicolai",
+      "license": "copyrighted / closed-rights",
+      "originalDimensions": {
+        "width": 1024,
+        "height": 1331
+      },
+      "image": "artworks/european-abstract-closed-v1/closed-carsten-nicolai-tired-light-parallax-2019.webp",
+      "publicPath": "/art-votes/artworks/european-abstract-closed-v1/closed-carsten-nicolai-tired-light-parallax-2019.webp",
+      "alt": "tired light - parallax by Carsten Nicolai."
+    }
+  ]
+}
